@@ -10,6 +10,9 @@ This application can organize the entire application for a club to have a functi
 ## GIF of Running Application
 
 <img src="https://im3.ezgif.com/tmp/ezgif-3-6096bccde992.gif" width=600><br>
+<img src="https://im3.ezgif.com/tmp/ezgif-3-69f54c0f8955.gif" width=600><br>
+<img src="https://im3.ezgif.com/tmp/ezgif-3-b12a84ca583b.gif" width=600><br>
+
 
 ## Notes
 
