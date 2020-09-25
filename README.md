@@ -18,5 +18,5 @@ https://youtu.be/RShzGfc8Nno<VIDEO URL>
 
 ## Notes
 
-A grand challenge I found as Project Coordinator was making sure every individual was participating in the project. I also had a difficult time with SQL logic and foreign constraints.
+One challenge I found as Project Coordinator was making sure every individual was participating in the project. I also had a difficult time with SQL logic and foreign constraints.
 
