@@ -1,0 +1,439 @@
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\STARSORG.exe.config
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\STARSORG.exe
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\STARSORG.pdb
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\STARSORG.xml
+C:\Users\NMene\source\repos\STARSORG\STARSORG\obj\Debug\STARSORG.vbprojAssemblyReference.cache
+C:\Users\NMene\source\repos\STARSORG\STARSORG\obj\Debug\STARSORG.frmMain.resources
+C:\Users\NMene\source\repos\STARSORG\STARSORG\obj\Debug\STARSORG.Resources.resources
+C:\Users\NMene\source\repos\STARSORG\STARSORG\obj\Debug\STARSORG.vbproj.GenerateResource.cache
+C:\Users\NMene\source\repos\STARSORG\STARSORG\obj\Debug\STARSORG.vbproj.CoreCompileInputs.cache
+C:\Users\NMene\source\repos\STARSORG\STARSORG\obj\Debug\STARSORG.exe
+C:\Users\NMene\source\repos\STARSORG\STARSORG\obj\Debug\STARSORG.xml
+C:\Users\NMene\source\repos\STARSORG\STARSORG\obj\Debug\STARSORG.pdb
+C:\Users\NMene\source\repos\STARSORG\STARSORG\obj\Debug\STARSORG.frmRole.resources
+C:\Users\NMene\source\repos\STARSORG\STARSORG\obj\Debug\STARSORG.frmLogin.resources
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\EnvDTE.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\stdole.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\Microsoft.MSXML.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NMene\source\repos\STARSORG\STARSORG\obj\Debug\STARSORG.vbproj.CopyComplete
+C:\Users\NMene\source\repos\STARSORG\STARSORG\obj\Debug\STARSORG.frmAdminScreenvb.resources
+C:\Users\NMene\source\repos\STARSORG\STARSORG\obj\Debug\STARSORG.frmChangePass.resources
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\obj\Debug\STARSORG.vbprojAssemblyReference.cache
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\obj\Debug\STARSORG.frmAdmin.resources
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\obj\Debug\STARSORG.frmChangePass.resources
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\obj\Debug\STARSORG.frmCourse.resources
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\obj\Debug\STARSORG.frmEvent.resources
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\obj\Debug\STARSORG.frmHelp.resources
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\obj\Debug\STARSORG.frmLogin.resources
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\obj\Debug\STARSORG.frmMain.resources
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\obj\Debug\STARSORG.frmRole.resources
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\obj\Debug\STARSORG.frmRSVP.resources
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\obj\Debug\STARSORG.frmSemester.resources
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\obj\Debug\STARSORG.Resources.resources
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\obj\Debug\STARSORG.vbproj.GenerateResource.cache
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\obj\Debug\STARSORG.vbproj.CoreCompileInputs.cache
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\STARSORG.exe.config
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\STARSORG.exe
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\STARSORG.pdb
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\STARSORG.xml
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\EnvDTE.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\stdole.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\Microsoft.MSXML.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\obj\Debug\STARSORG.vbproj.CopyComplete
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\obj\Debug\STARSORG.exe
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\obj\Debug\STARSORG.xml
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\obj\Debug\STARSORG.pdb
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\obj\Debug\STARSORG.frmMembers.resources
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\obj\Debug\STARSORG.frmMemberReport.resources
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\obj\Debug\RdlCompile.cache
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\obj\Debug\RdlCompile.compiled
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\obj\Debug\STARSORG.frmEventReport.resources
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\obj\Debug\STARSORG.frmEvent_RSVP.resources
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\obj\Debug\STARSORG.frmRoleReport.resources
+C:\Users\NMene\source\repos\MostRecentProgress\STARSORG\STARSORG\obj\Debug\STARSORG.frmRSVPReport.resources
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\STARSORG.exe.config
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\STARSORG.exe
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\STARSORG.pdb
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\STARSORG.xml
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\EnvDTE.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\stdole.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\Microsoft.MSXML.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.vbprojAssemblyReference.cache
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.frmAdmin.resources
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.frmChangePass.resources
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.frmCourse.resources
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.frmEvent.resources
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.frmEventReport.resources
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.frmEvent_RSVP.resources
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.frmHelp.resources
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.frmLogin.resources
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.frmMain.resources
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.frmMembers.resources
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.frmRole.resources
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.frmRoleReport.resources
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.frmRSVP.resources
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.frmRSVPReport.resources
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.frmSemester.resources
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.Resources.resources
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.frmMemberReport.resources
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.vbproj.GenerateResource.cache
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\RdlCompile.cache
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\RdlCompile.compiled
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.vbproj.CoreCompileInputs.cache
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.vbproj.CopyComplete
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.exe
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.xml
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.pdb
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\Reports\rptEvents.rdlc
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\Reports\rptMembers.rdlc
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\Reports\rptRoles.rdlc
+C:\Users\NMene\source\repos\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\Reports\rptRSVP.rdlc
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\Reports\rptEvents.rdlc
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\Reports\rptMembers.rdlc
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\Reports\rptRoles.rdlc
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\Reports\rptRSVP.rdlc
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\STARSORG.exe.config
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\STARSORG.exe
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\STARSORG.pdb
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\STARSORG.xml
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\EnvDTE.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\stdole.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\Microsoft.MSXML.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.vbprojAssemblyReference.cache
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.frmAdmin.resources
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.frmChangePass.resources
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.frmCourse.resources
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.frmEvent.resources
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.frmEventReport.resources
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.frmEvent_RSVP.resources
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.frmHelp.resources
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.frmLogin.resources
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.frmMain.resources
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.frmMembers.resources
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.frmRole.resources
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.frmRoleReport.resources
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.frmRSVP.resources
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.frmRSVPReport.resources
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.frmSemester.resources
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.Resources.resources
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.frmMemberReport.resources
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.vbproj.GenerateResource.cache
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\RdlCompile.cache
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\RdlCompile.compiled
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.vbproj.CoreCompileInputs.cache
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.vbproj.CopyComplete
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.exe
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.xml
+C:\Users\NMene\source\repos\STARSORG-Team\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.pdb
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\Reports\rptEvents.rdlc
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\Reports\rptMembers.rdlc
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\Reports\rptRoles.rdlc
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\Reports\rptRSVP.rdlc
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\STARSORG.exe.config
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\STARSORG.exe
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\STARSORG.pdb
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\STARSORG.xml
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\EnvDTE.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\stdole.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\Microsoft.MSXML.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.vbprojAssemblyReference.cache
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.frmAdmin.resources
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.frmChangePass.resources
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.frmCourse.resources
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.frmEvent.resources
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.frmEventReport.resources
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.frmEvent_RSVP.resources
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.frmHelp.resources
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.frmLogin.resources
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.frmMain.resources
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.frmMembers.resources
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.frmRole.resources
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.frmRoleReport.resources
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.frmRSVP.resources
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.frmRSVPReport.resources
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.frmSemester.resources
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.Resources.resources
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.frmMemberReport.resources
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.vbproj.GenerateResource.cache
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\RdlCompile.cache
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\RdlCompile.compiled
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.vbproj.CoreCompileInputs.cache
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.vbproj.CopyComplete
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.exe
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.xml
+C:\Users\NMene\source\repos\STARSORG - Team 4 (Resubmission)\STARSORG - Team 4\STARSORG\STARSORG\obj\Debug\STARSORG.pdb
