@@ -10,10 +10,13 @@ This application can organize the entire application for a club to have a functi
 ## Videos of Running Application
 
 Video #1
-https://youtu.be/pmixYjchwIc<VIDEO URL>
+https://www.youtube.com/watch?v=xGNBtKkj06Y<VIDEO URL>
+
+Video #2
+https://www.youtube.com/watch?v=pmixYjchwIc&t=2s<VIDEO URL>
 
 Video #3
-https://youtu.be/RShzGfc8Nno<VIDEO URL>
+https://www.youtube.com/watch?v=RShzGfc8Nno<VIDEO URL>
 
 
 ## Notes
